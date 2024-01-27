@@ -1,9 +1,5 @@
 import numpy as np
-from scipy import stats
-
 from matplotlib import pyplot as plt
-
-from scipy.stats import multivariate_normal
 
 mean= [5, 6]
 cov=[[0.8,0.5], [0.5,1]]
