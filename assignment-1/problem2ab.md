@@ -11,3 +11,4 @@
 #### cor(x,z)= 1/ sqrt(4*2)= 0.3536
 #### cor(y,z)= 1.5/ sqrt(3*2)= 0.6124
 #### Correlation matrix: [[1, 0.5774, 0.3536] [0.5774, 1, 0.6124] [0.3536, 0.6124, 1]]
+#### All three of the variables have a positive correlation, but they do not have a very strong correlation. The correlation cor(x,y) are considered moderate, the correlation cor(x,z) are relatively weak, and the correlation cor(y,z) are also moderate.
