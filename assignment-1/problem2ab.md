@@ -15,4 +15,4 @@
 
 ### Does the projection agree with the poitive or negative correlations of the original matrix.
 
-#### No, because the signs of the first two principal components does not match the signs of the correlations.
+#### No, because the signs of the first two principal components does not match the signs of the correlations. The signs may be flipped as the overall orientation of the principal components is arbitrary and can be flipped without changing the fundamental results.
