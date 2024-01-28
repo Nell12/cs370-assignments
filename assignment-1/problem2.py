@@ -22,10 +22,10 @@ print(E)
 print(V)
 '''
 #Only the first two columns
-principal_components_subspace = U[:, :2]
+principal = U[:, :2]
 
 xx, yy = np.meshgrid(np.linspace(-6, 6, 10), np.linspace(-6, 6, 10))
-zz = principal_components_subspace[2, 0] * xx + principal_components_subspace[2, 1] * yy
+zz = principal[2, 0] * xx + principal[2, 1] * yy
 ax.plot_surface(xx, yy, zz, color='yellow', alpha=0.5, label='Projection Plane')
 
 plt.show()
