@@ -129,9 +129,9 @@ plt.title("Gradient Descent")
 plt.legend()
 plt.show()
 
-plt.plot(range(0,iterations+1), mse_train_sgd, label="SGD")
-plt.plot(range(0,iterations+1), mse_train_sgd_mom, label="SGD_momentum")
-plt.plot(range(0,iterations+1), mse_train_sgd_adam, label="SGD_adam")
+plt.plot(range(0,iterations+1), mse_train_sgd, color="green", label="SGD")
+plt.plot(range(0,iterations+1), mse_train_sgd_mom, color="orange",  label="SGD_momentum")
+plt.plot(range(0,iterations+1), mse_train_sgd_adam, color="purple", label="SGD_adam")
 
 
 plt.xlabel("epoch")
