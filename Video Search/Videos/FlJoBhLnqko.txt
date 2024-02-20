@@ -1,0 +1,56 @@
+{'text': 'This is the largest green roof in New York City.', 'start': 1.34, 'duration': 3.22}
+{'text': "It's in the middle of bustling Manhattan, on top of the Javits Convention Center—", 'start': 4.72, 'duration': 5.32}
+{'text': 'a behemoth of a building with a six-block footprint.', 'start': 10.22, 'duration': 3.48}
+{'text': "But the roof hasn't always been green.", 'start': 13.7, 'duration': 2.78}
+{'text': 'Before 2014, it was totally barren.', 'start': 16.48, 'duration': 3.7}
+{'text': 'Now, just a few years later, when people walk out onto the roof, they say things like:', 'start': 20.18, 'duration': 3.7}
+{'text': '"Amazing," "That\'s great," "I didn\'t expect this," "What a surprise."', 'start': 24.0, 'duration': 3.94}
+{'text': 'But besides the great reactions, there are practical benefits.', 'start': 28.1, 'duration': 3.84}
+{'text': 'We have 300,000 bees.', 'start': 31.94, 'duration': 2.28}
+{'text': "We've seen 25 different species of birds on the roof.", 'start': 34.36, 'duration': 2.4}
+{'text': 'We reduced the temperature up here by about six degrees Fahrenheit.', 'start': 36.86, 'duration': 2.84}
+{'text': 'And we also save about 7 million gallons of stormwater runoff', 'start': 39.7, 'duration': 3.8}
+{'text': "that's absorbed in the soil and the plants that are on our roof.", 'start': 43.58, 'duration': 2.86}
+{'text': "We've been able to reduce our energy\nconsumption by about 26 percent,", 'start': 46.44, 'duration': 4.12}
+{'text': 'and that translated for us last year\ninto a saving of about 3 million dollars.', 'start': 50.56, 'duration': 5.38}
+{'text': 'That is impressive.', 'start': 55.94, 'duration': 2.24}
+{'text': 'How does one green roof get so much done?', 'start': 58.18, 'duration': 3.22}
+{'text': 'And what are all of the NOT green roofs in New York City doing with their lives?', 'start': 61.54, 'duration': 4.4}
+{'text': "First, let's see how much roof space actually exists.", 'start': 66.1, 'duration': 3.48}
+{'text': 'You know, they are a major part of urban landscapes.', 'start': 69.8, 'duration': 3.12}
+{'text': 'The the round number that most of us think exists is about 1 billion square feet.', 'start': 72.92, 'duration': 5.4}
+{'text': "One billion with a 'b.'", 'start': 78.44, 'duration': 1.62}
+{'text': "That's like 22 times the size of Central Park, in roofs.", 'start': 80.24, 'duration': 3.92}
+{'text': "And in most cities, what isn't roof is another impermeable surface", 'start': 84.16, 'duration': 4.98}
+{'text': 'like road, sidewalk, or parking\nlot.', 'start': 89.16, 'duration': 2.5}
+{'text': 'And these surfaces create a lot of problems for cities', 'start': 91.84, 'duration': 3.62}
+{'text': 'That green roofs can actually help solve.', 'start': 95.64, 'duration': 2.42}
+{'text': "Let's take a look at three of these issues. The first is\nstormwater runoff.", 'start': 98.06, 'duration': 4.26}
+{'text': "Rainwater goes in pipes. It combines\nwith what's called sanitary water.", 'start': 102.44, 'duration': 6.3}
+{'text': "When there's too much rainwater, which happens hundreds of times a year around Manhattan,", 'start': 108.74, 'duration': 4.72}
+{'text': 'the wastewater treatment\nsystems shut down, and valves just let', 'start': 113.46, 'duration': 3.6}
+{'text': "the water just,  you know, shunt out into the rivers. You know, it's got human sewage.", 'start': 117.06, 'duration': 4.08}
+{'text': "It's the biggest source of pathogens to\nthe Manhattan Island.", 'start': 121.14, 'duration': 3.2}
+{'text': 'With green roofs, that water instead of going into the\ndrain and polluting the environment,', 'start': 124.34, 'duration': 5.68}
+{'text': 'ends up just evaporating the atmosphere\nthrough the leaves of these plants.', 'start': 130.16, 'duration': 3.3}
+{'text': 'And then, there\'s what scientists call the "heat island effect,"', 'start': 133.46, 'duration': 2.8}
+{'text': 'which basically means that cities are significantly warmer than the surrounding areas.', 'start': 136.38, 'duration': 4.36}
+{'text': "I've seen asphalt roofs get up easily 170, 180 degrees Fahrenheit in the strong sunlight.", 'start': 140.88, 'duration': 6.08}
+{'text': 'They absorb about 90 to 95 percent of the sunlight.', 'start': 146.96, 'duration': 3.82}
+{'text': 'Green roofs, by comparison are close to air temperatures.', 'start': 150.78, 'duration': 3.6}
+{'text': 'Another problem green roofs can help solve is habitat loss.', 'start': 154.48, 'duration': 3.48}
+{'text': "Cities can shrink or destroy the green space that's crucial for certain plants and\nanimals to survive.", 'start': 157.96, 'duration': 5.56}
+{'text': 'Currently a lot of species might occur in  smaller parks throughout the city that are relatively unconnected,', 'start': 163.58, 'duration': 5.66}
+{'text': 'But having high densities of green roofs would allow those patches to be more connected.', 'start': 169.24, 'duration': 4.68}
+{'text': 'Letting, for example, butterflies travel from patch to patch with lots of stepping stones of green roofs in between.', 'start': 173.92, 'duration': 5.68}
+{'text': 'And these are just three of the problems that green roofs can help solve.', 'start': 179.6, 'duration': 4.02}
+{'text': 'But to really put a dent in any of these issues', 'start': 183.62, 'duration': 3.18}
+{'text': 'cities would have to implement green roofs at a large scale.', 'start': 186.82, 'duration': 2.7}
+{'text': 'Stuart Gaffin, the research scientist\nyou heard from earlier,', 'start': 189.6, 'duration': 3.28}
+{'text': "estimates that if all of New York City's 1 billion square feet of roof space were greened,", 'start': 192.92, 'duration': 4.62}
+{'text': "those green roofs could lower the city's\ntemperature by nearly two degrees Fahrenheit", 'start': 197.54, 'duration': 4.9}
+{'text': 'and absorb over 10 billion\ngallons of stormwater each year.', 'start': 202.44, 'duration': 5.1}
+{'text': 'As cities continue to grow, all that empty roof space starts to look more and more like an opportunity,', 'start': 207.54, 'duration': 7.1}
+{'text': 'an untapped resource,', 'start': 214.64, 'duration': 1.84}
+{'text': 'a future ecosystem of problem-solving meadows', 'start': 216.6, 'duration': 4.46}
+{'text': 'in the sky.', 'start': 221.14, 'duration': 9.58}

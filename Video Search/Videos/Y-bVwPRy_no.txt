@@ -1,0 +1,54 @@
+{'text': 'There’s a reason that summers in the city are so hot,', 'start': 4.48, 'duration': 3.7}
+{'text': 'and it’s probably easiest to explain why', 'start': 8.18, 'duration': 1.5}
+{'text': 'with thermal vision.', 'start': 9.68, 'duration': 1.7}
+{'text': 'It shows the heat all around me', 'start': 11.38, 'duration': 2.1}
+{'text': 'and also the coldness of this ice cream cone.', 'start': 13.48, 'duration': 2.54}
+{'text': 'Cities are often hotter than their suburbs', 'start': 16.9, 'duration': 2.76}
+{'text': 'due to a phenomenon known as “the heat island effect.”', 'start': 19.66, 'duration': 4.54}
+{'text': 'All of that asphalt,', 'start': 24.2, 'duration': 1.38}
+{'text': 'concrete,', 'start': 25.58, 'duration': 0.68}
+{'text': 'dark rooftops', 'start': 26.26, 'duration': 1.02}
+{'text': 'and tall buildings—', 'start': 27.28, 'duration': 1.42}
+{'text': 'they absorb and store heat.', 'start': 28.7, 'duration': 2.58}
+{'text': 'And there are a lot of people using a lot of energy—', 'start': 31.42, 'duration': 2.64}
+{'text': 'driving cars, riding subways, running the AC.', 'start': 34.06, 'duration': 4.16}
+{'text': 'All of these materials and activities', 'start': 38.44, 'duration': 2.54}
+{'text': 'either create or retain heat.', 'start': 40.98, 'duration': 2.8}
+{'text': 'And all that stored heat causes steeper nighttime highs …', 'start': 44.9, 'duration': 3.46}
+{'text': 'when people would otherwise have a chance to cool down.', 'start': 48.36, 'duration': 3.2}
+{'text': 'The way all these heat-storing elements are laid out', 'start': 52.16, 'duration': 3.52}
+{'text': 'matters quite a bit.', 'start': 55.68, 'duration': 1.88}
+{'text': 'In cities laid out in grids,', 'start': 57.56, 'duration': 1.5}
+{'text': 'like Phoenix, Chicago, or Washington, D.C.,', 'start': 59.06, 'duration': 2.86}
+{'text': 'the buildings are closer together,', 'start': 61.94, 'duration': 2.16}
+{'text': 'like closely packed coals in a fire, keeping heat in.', 'start': 64.1, 'duration': 2.9}
+{'text': 'More space between buildings', 'start': 67.0, 'duration': 1.66}
+{'text': 'creates more circulation.', 'start': 68.66, 'duration': 2.64}
+{'text': 'Another way to combat this heat island effect', 'start': 71.38, 'duration': 2.78}
+{'text': 'is through green space.', 'start': 74.16, 'duration': 1.46}
+{'text': 'Parks, trees, plants—', 'start': 75.62, 'duration': 2.26}
+{'text': 'they don’t absorb as much heat …', 'start': 77.88, 'duration': 1.5}
+{'text': 'they actually send water back in the atmosphere.', 'start': 79.38, 'duration': 2.54}
+{'text': 'Between all those hot buildings, that cools things off.', 'start': 81.92, 'duration': 3.56}
+{'text': 'Another solution is color.', 'start': 85.58, 'duration': 1.88}
+{'text': 'Light colors reflect sunlight back into the atmosphere', 'start': 87.46, 'duration': 2.72}
+{'text': 'instead of storing it as heat.', 'start': 90.18, 'duration': 1.64}
+{'text': "It's easiest to see in crosswalks,", 'start': 91.82, 'duration': 2.7}
+{'text': "and it's true for the color of buildings", 'start': 94.52, 'duration': 1.66}
+{'text': 'and other urban surfaces, too.', 'start': 96.18, 'duration': 2.74}
+{'text': 'And one long-game way to combat the heat island effect', 'start': 99.26, 'duration': 2.76}
+{'text': 'is to avoid using air conditioning when you don’t need it.', 'start': 102.02, 'duration': 3.22}
+{'text': 'AC uses a ton of electricity and creates a feedback loop.', 'start': 105.7, 'duration': 3.46}
+{'text': 'When we get that electricity from coal or natural gas,', 'start': 109.36, 'duration': 3.58}
+{'text': 'that puts more carbon dioxide into the atmosphere …', 'start': 112.94, 'duration': 2.52}
+{'text': 'which warms the planet …', 'start': 115.46, 'duration': 1.36}
+{'text': 'making cities even hotter.', 'start': 116.82, 'duration': 2.26}
+{'text': 'But this isn’t just about comfort.', 'start': 120.06, 'duration': 2.22}
+{'text': 'Today, heat waves kill more people', 'start': 122.28, 'duration': 2.0}
+{'text': 'than any other extreme weather event.', 'start': 124.28, 'duration': 2.9}
+{'text': 'More than tornadoes, hurricanes and even floods.', 'start': 127.18, 'duration': 3.34}
+{'text': 'City populations keep growing,', 'start': 131.4, 'duration': 2.22}
+{'text': 'and those cities are only getting hotter.', 'start': 133.62, 'duration': 2.98}
+{'text': "This is Let's Talk, NPR's news explainer show.", 'start': 137.5, 'duration': 3.34}
+{'text': 'Make sure to subscribe to our YouTube channel and check out other shows.', 'start': 140.84, 'duration': 4.62}
+{'text': "I'm Christopher Joyce, and this is NPR.", 'start': 145.46, 'duration': 2.54}

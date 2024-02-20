@@ -1,0 +1,108 @@
+{'text': "I'm standing straight and tall I'm ready", 'start': 4.399, 'duration': 17.581}
+{'text': 'for the hall high four three two zero', 'start': 12.63, 'duration': 13.739}
+{'text': 'yeah this is their first experience in', 'start': 21.98, 'duration': 6.039}
+{'text': 'school for the most part a lot of them', 'start': 26.369, 'duration': 3.66}
+{'text': 'have been in daycare or some sort of', 'start': 28.019, 'duration': 4.291}
+{'text': 'childcare setting but then when they', 'start': 30.029, 'duration': 4.051}
+{'text': "come to public school it's just", 'start': 32.31, 'duration': 4.07}
+{'text': 'different', 'start': 34.08, 'duration': 2.3}
+{'text': 'can you drive yes in my classroom I use', 'start': 37.7, 'duration': 8.17}
+{'text': 'a project approach to learning and I let', 'start': 42.51, 'duration': 5.4}
+{'text': 'the kids guide the curriculum what do', 'start': 45.87, 'duration': 5.94}
+{'text': "you think of that idea I think that it's", 'start': 47.91, 'duration': 5.52}
+{'text': 'more important for the children to', 'start': 51.81, 'duration': 3.54}
+{'text': 'determine what the curriculum is so that', 'start': 53.43, 'duration': 4.59}
+{'text': "they stay engaged if they're not engaged", 'start': 55.35, 'duration': 5.69}
+{'text': 'then I spend my day managing behavior', 'start': 58.02, 'duration': 7.319}
+{'text': 'versus letting them be able to discover', 'start': 61.04, 'duration': 6.16}
+{'text': 'and explore and construct their own', 'start': 65.339, 'duration': 6.78}
+{'text': 'knowledge of something we spend a lot of', 'start': 67.2, 'duration': 6.659}
+{'text': 'time learning what patience is and', 'start': 72.119, 'duration': 4.021}
+{'text': 'waiting because life is full of waiting', 'start': 73.859, 'duration': 5.04}
+{'text': 'and so I draw their stick with their', 'start': 76.14, 'duration': 4.95}
+{'text': 'name on it and then I asked them to tell', 'start': 78.899, 'duration': 10.92}
+{'text': "me where they're going to play with", 'start': 81.09, 'duration': 14.159}
+{'text': 'these that holds them accountable that', 'start': 89.819, 'duration': 7.351}
+{'text': "is them saying I'm going to go play in", 'start': 95.249, 'duration': 3.69}
+{'text': "the dough so they know they're going to", 'start': 97.17, 'duration': 3.239}
+{'text': 'go to the sensory table and play in the', 'start': 98.939, 'duration': 3.691}
+{'text': "dough that like they they've claimed", 'start': 100.409, 'duration': 3.721}
+{'text': "that spot they're going there they", 'start': 102.63, 'duration': 9.39}
+{'text': 'claimed their play the materials I bring', 'start': 104.13, 'duration': 10.68}
+{'text': "in are mostly natural materials they're", 'start': 112.02, 'duration': 4.889}
+{'text': "open-ended and the fact that they're not", 'start': 114.81, 'duration': 4.71}
+{'text': 'task oriented because I want them to be', 'start': 116.909, 'duration': 5.13}
+{'text': 'able to explore those materials and use', 'start': 119.52, 'duration': 5.04}
+{'text': 'them for as long as possible instead of', 'start': 122.039, 'duration': 4.47}
+{'text': 'just having a specific task set to it', 'start': 124.56, 'duration': 4.229}
+{'text': 'like a puzzle once the puzzles done', 'start': 126.509, 'duration': 5.601}
+{'text': 'nothing to do move on', 'start': 128.789, 'duration': 3.321}
+{'text': 'hi those tools that they use in everyday', 'start': 132.29, 'duration': 5.05}
+{'text': 'life automatically gives them a sense of', 'start': 135.21, 'duration': 4.77}
+{'text': 'responsibility interest they can respect', 'start': 137.34, 'duration': 4.47}
+{'text': 'so they can see that I respect them', 'start': 139.98, 'duration': 4.89}
+{'text': 'enough to use adult tools we have safety', 'start': 141.81, 'duration': 4.74}
+{'text': 'procedures to use them safely so if', 'start': 144.87, 'duration': 3.0}
+{'text': "they're going to get out hammers and", 'start': 146.55, 'duration': 2.52}
+{'text': 'things like that then they each have', 'start': 147.87, 'duration': 3.24}
+{'text': "their safety glasses on I'm gonna pass", 'start': 149.07, 'duration': 3.8}
+{'text': 'around with Allen if you have the owl', 'start': 151.11, 'duration': 6.45}
+{'text': 'you can share share times we we do it at', 'start': 152.87, 'duration': 7.12}
+{'text': 'least two times a day that gives me an', 'start': 157.56, 'duration': 5.01}
+{'text': "idea of who's following who I get to see", 'start': 159.99, 'duration': 4.23}
+{'text': 'a lot in classroom dynamics and', 'start': 162.57, 'duration': 3.54}
+{'text': 'relationships during those little times', 'start': 164.22, 'duration': 5.34}
+{'text': 'like that Ellie and if anybody has the', 'start': 166.11, 'duration': 3.74}
+{'text': 'ow', 'start': 169.56, 'duration': 2.67}
+{'text': "only they can boss that's right because", 'start': 169.85, 'duration': 4.0}
+{'text': 'that helps us remember that we need to', 'start': 172.23, 'duration': 3.33}
+{'text': 'be respectful and listen to people share', 'start': 173.85, 'duration': 6.84}
+{'text': 'their story right oh six or five weeks', 'start': 175.56, 'duration': 7.74}
+{'text': 'from now on my meetings gonna open up', 'start': 180.69, 'duration': 5.49}
+{'text': 'her pool and we can go and me and my', 'start': 183.3, 'duration': 5.37}
+{'text': 'brother and daddy and Katie and', 'start': 186.18, 'duration': 6.02}
+{'text': 'Charlotte can go swim in it my sister', 'start': 188.67, 'duration': 8.39}
+{'text': 'fell off the slide when she was a baby', 'start': 192.2, 'duration': 9.28}
+{'text': 'my daddy um we got hit by linemen when', 'start': 197.06, 'duration': 10.84}
+{'text': 'he was a little boy really I get I try', 'start': 201.48, 'duration': 8.7}
+{'text': 'to take an alternate activity outside I', 'start': 207.9, 'duration': 4.89}
+{'text': 'just kind of looked on the playground at', 'start': 210.18, 'duration': 4.23}
+{'text': "the students who weren't really engaged", 'start': 212.79, 'duration': 3.66}
+{'text': 'they see me over there they know that', 'start': 214.41, 'duration': 3.45}
+{'text': "I'm doing something so if they want to", 'start': 216.45, 'duration': 3.87}
+{'text': 'come over they know they can but most', 'start': 217.86, 'duration': 4.26}
+{'text': "will choose to play it's just different", 'start': 220.32, 'duration': 3.36}
+{'text': 'on different days and also depends what', 'start': 222.12, 'duration': 3.48}
+{'text': "the activity is I'm done I'm gonna", 'start': 223.68, 'duration': 3.57}
+{'text': 'squirt huh', 'start': 225.6, 'duration': 3.81}
+{'text': "that's loud on top doing a big phone oh", 'start': 227.25, 'duration': 4.68}
+{'text': "yeah I'm not just get it like I wanted", 'start': 229.41, 'duration': 4.98}
+{'text': 'make well this is sort of my way of', 'start': 231.93, 'duration': 4.59}
+{'text': 'doing an assessment and so instead of', 'start': 234.39, 'duration': 5.25}
+{'text': 'sitting down or clicking on bubbles on', 'start': 236.52, 'duration': 5.58}
+{'text': 'the computer screen to answer questions', 'start': 239.64, 'duration': 4.95}
+{'text': "I do my assessments like this what's the", 'start': 242.1, 'duration': 7.21}
+{'text': 'job of a clown he makes it', 'start': 244.59, 'duration': 7.869}
+{'text': 'I was kind of looking for oral language', 'start': 249.31, 'duration': 5.46}
+{'text': 'what they could tell me what words they', 'start': 252.459, 'duration': 3.961}
+{'text': 'were using we had just started talking', 'start': 254.77, 'duration': 3.719}
+{'text': 'about clouds so this was all very new', 'start': 256.42, 'duration': 3.45}
+{'text': 'but I wanted to see if they were using', 'start': 258.489, 'duration': 4.351}
+{'text': 'any weather vocabulary that we had', 'start': 259.87, 'duration': 10.35}
+{'text': 'talked about cuz what because because to', 'start': 262.84, 'duration': 11.07}
+{'text': "the flowers okay all right so here's", 'start': 270.22, 'duration': 6.12}
+{'text': "what we're going to do I wanted to see", 'start': 273.91, 'duration': 6.6}
+{'text': 'if they were gathering any information', 'start': 276.34, 'duration': 6.54}
+{'text': 'and using those context clues to kind of', 'start': 280.51, 'duration': 4.02}
+{'text': 'make a different analysis of what', 'start': 282.88, 'duration': 3.78}
+{'text': 'happened with a cloud and water how many', 'start': 284.53, 'duration': 3.57}
+{'text': "drops do you think you'll put in before", 'start': 286.66, 'duration': 3.6}
+{'text': 'it rains all right', 'start': 288.1, 'duration': 5.13}
+{'text': 'the level of learning is so much deeper', 'start': 290.26, 'duration': 4.98}
+{'text': 'if they construct their knowledge with', 'start': 293.23, 'duration': 4.83}
+{'text': "that it's time to start cleaning up our", 'start': 295.24, 'duration': 5.16}
+{'text': "centers we hope that the things we're", 'start': 298.06, 'duration': 4.89}
+{'text': 'doing build their self confidence and', 'start': 300.4, 'duration': 4.2}
+{'text': 'get them those social-emotional skills', 'start': 302.95, 'duration': 4.41}
+{'text': 'that they need to go on and collaborate', 'start': 304.6, 'duration': 7.069}
+{'text': 'and work together in kindergarten', 'start': 307.36, 'duration': 4.309}
