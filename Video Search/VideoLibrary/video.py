@@ -12,6 +12,11 @@ def download_captions(url, path):
       for i in srt:
          f.write("{}\n".format(i))
 
+         #general captions
+      f.write("\n")
+      for i in srt:
+         f.write(f"{i['text']}\n")
+
 
 def download_video(url, path='./Videos'):
    video= YouTube(url) #gets the url

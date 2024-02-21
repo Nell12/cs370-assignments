@@ -52,3 +52,58 @@
 {'text': "This is Let's Talk, NPR's news explainer show.", 'start': 137.5, 'duration': 3.34}
 {'text': 'Make sure to subscribe to our YouTube channel and check out other shows.', 'start': 140.84, 'duration': 4.62}
 {'text': "I'm Christopher Joyce, and this is NPR.", 'start': 145.46, 'duration': 2.54}
+
+There’s a reason that summers in the city are so hot,
+and it’s probably easiest to explain why
+with thermal vision.
+It shows the heat all around me
+and also the coldness of this ice cream cone.
+Cities are often hotter than their suburbs
+due to a phenomenon known as “the heat island effect.”
+All of that asphalt,
+concrete,
+dark rooftops
+and tall buildings—
+they absorb and store heat.
+And there are a lot of people using a lot of energy—
+driving cars, riding subways, running the AC.
+All of these materials and activities
+either create or retain heat.
+And all that stored heat causes steeper nighttime highs …
+when people would otherwise have a chance to cool down.
+The way all these heat-storing elements are laid out
+matters quite a bit.
+In cities laid out in grids,
+like Phoenix, Chicago, or Washington, D.C.,
+the buildings are closer together,
+like closely packed coals in a fire, keeping heat in.
+More space between buildings
+creates more circulation.
+Another way to combat this heat island effect
+is through green space.
+Parks, trees, plants—
+they don’t absorb as much heat …
+they actually send water back in the atmosphere.
+Between all those hot buildings, that cools things off.
+Another solution is color.
+Light colors reflect sunlight back into the atmosphere
+instead of storing it as heat.
+It's easiest to see in crosswalks,
+and it's true for the color of buildings
+and other urban surfaces, too.
+And one long-game way to combat the heat island effect
+is to avoid using air conditioning when you don’t need it.
+AC uses a ton of electricity and creates a feedback loop.
+When we get that electricity from coal or natural gas,
+that puts more carbon dioxide into the atmosphere …
+which warms the planet …
+making cities even hotter.
+But this isn’t just about comfort.
+Today, heat waves kill more people
+than any other extreme weather event.
+More than tornadoes, hurricanes and even floods.
+City populations keep growing,
+and those cities are only getting hotter.
+This is Let's Talk, NPR's news explainer show.
+Make sure to subscribe to our YouTube channel and check out other shows.
+I'm Christopher Joyce, and this is NPR.
