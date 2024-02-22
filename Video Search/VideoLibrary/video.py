@@ -4,7 +4,7 @@ from youtube_transcript_api import YouTubeTranscriptApi as transcript
 import re
 
 def download_captions(url, path, title):
-   code= url.split("v=")[-1] #get URL idcode for video
+   code= url.split("=")[-1] #get URL idcode for video
 
    #get transcript
    srt= transcript.get_transcript(code, languages=['en'])
