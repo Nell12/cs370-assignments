@@ -1,10 +1,10 @@
+#Problem 1- Video Library
 from pytube import YouTube
 from youtube_transcript_api import YouTubeTranscriptApi as transcript
 import re
 
 def download_captions(url, path, title):
    code= url.split("v=")[-1] #get URL idcode for video
-   title= re.sub('[^A-Za-z0-9 ]+', '', title)
 
    #get transcript
    srt= transcript.get_transcript(code, languages=['en'])
@@ -22,11 +22,12 @@ def download_captions(url, path, title):
 
 def download_video(url, path='./Videos'):
    video= YouTube(url) #gets the url
+   title= re.sub('[^A-Za-z0-9]+', '', video.title)
 
    video_stream= video.streams.get_highest_resolution()
-   video_stream.download(path) #downloads to file path
+   video_stream.download(path, filename= f'{title}.mp4') #downloads to file path
    
-   download_captions(url, path, video.title)
+   download_captions(url, path, title)
 
 #function to download video
 url= ["https://www.youtube.com/watch?v=wbWRWeVe1XE",
