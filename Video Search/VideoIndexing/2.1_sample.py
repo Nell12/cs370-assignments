@@ -7,7 +7,7 @@ def sample_frame(start, end, step, target='L'):
     n= start
     while n<end:
         #get image
-        file_path= f'./VideoFrame/{n}.jpg'
+        file_path= f'./Frames/{n}.jpg'
 
         try:
             #open image from PIL
@@ -19,14 +19,14 @@ def sample_frame(start, end, step, target='L'):
                 resize= img.resize((int(width/2), int(height/2)))
                 #print(f' {resize.size} \n')
 
-                #GrayScale
+                #GrayScale 
                 if resize.mode != target:
                     final= resize.convert(target)
 
                 #stored to show example of final image
-                final.save(f'./VideoOutPut/{n}.jpg')
-
-                img_array= np.array(final)
+                #final.save(f'./VideoOutPut/{n}.jpg')
+                #Normalize
+                img_array= np.array(final)/float(255)
                 images.append(img_array)
 
         #exception error
@@ -39,8 +39,9 @@ def sample_frame(start, end, step, target='L'):
 
     #saves it to an npy file
     images_array= np.array(images)
-    np.save('./VideoOutPut/frames.npy', images_array)
+    np.save('./2.1_frames.npy', images_array)
 
 #sample frames from start to end with steps
-sample_frame(10, 30, 1)
+fps=24
+sample_frame(fps, fps*300, fps*1)
 
