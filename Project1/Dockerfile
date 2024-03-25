@@ -10,7 +10,4 @@ COPY . /project
 # Install any needed dependencies specified in requirements.txt
 RUN pip install -r requirements.txt
 
-#first command to run
-CMD ["python", "test.py"]
-
 
