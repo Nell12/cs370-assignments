@@ -1,9 +1,12 @@
 import os
 from pathlib import Path
+from PIL import Image
+from tqdm import tqdm
+
+#From VisDrone.yaml [copied from another GitHub directory]
+#Used to preprocess the videos for training labels
 
 def visdrone2yolo(dir):
-    from PIL import Image
-    from tqdm import tqdm
 
     def convert_box(size, box):
         # Convert VisDrone box to YOLO xywh box
@@ -21,6 +24,9 @@ def visdrone2yolo(dir):
                 if row[4] == '0':  # VisDrone 'ignored regions' class 0
                     continue
                 cls = int(row[5]) - 1
+
+                #Get labels for only these classes
+                #Training only on pedestrians, cars, and bicycles
                 if cls==2 or cls==3 or cls==1 or cls==0:
                     box = convert_box(img_size, tuple(map(int, row[:4])))
                     lines.append(f"{cls} {' '.join(f'{x:.6f}' for x in box)}\n")
@@ -36,9 +42,9 @@ urls = ['https://github.com/ultralytics/yolov5/releases/download/v1.0/VisDrone20
         'https://github.com/ultralytics/yolov5/releases/download/v1.0/VisDrone2019-DET-test-challenge.zip']
 
 # Convert
-d="test-dev"
-visdrone2yolo(dir / d)  # convert VisDrone annotations to YOLO labels
-
+for d in 'VisDrone2019-DET-train', 'VisDrone2019-DET-val', 'VisDrone2019-DET-test-dev':
+      visdrone2yolo(dir / d)  # convert VisDrone annotations to YOLO labels
+      
 '''
 # Download script/URL (optional) ---------------------------------------------------------------------------------------
 download: |
