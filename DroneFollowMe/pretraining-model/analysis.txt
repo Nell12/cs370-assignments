@@ -1,7 +1,7 @@
 Description: I trained my model over the VisDrone dataset over 20 epochs
 ---For every epoch, I saved the model and analyze it's performance
 ---For the first few epochs, the performance was not quite good
----Up to model last21.pt and last22.pt the performance was most adequate, but alot of false positives
+---Up to model last21.pt and last22.pt the performance was most, but not very, adequate, as compared to all the other models
 ---However, after a certain amount of epochs, the data may have been overtrained causing performance to drop dramatically
 
 
