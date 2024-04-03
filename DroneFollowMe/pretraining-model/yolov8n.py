@@ -7,7 +7,7 @@ def main():
     
     #Set parameters for training
     results = model.train(data='VisDrone.yaml', 
-                        epochs=50, 
+                        epochs=20, 
                         imgsz=640, 
                         batch=8) 
     

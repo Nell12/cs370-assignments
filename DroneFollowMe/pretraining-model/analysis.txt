@@ -1,0 +1,38 @@
+Description: I trained my model over the VisDrone dataset over 20 epochs
+---For every epoch, I saved the model and analyze it's performance
+---For the first few epochs, the performance was not quite good
+---Up to model last21.pt and last22.pt the performance was adequate, but alot of false positives
+---However, after a certain amount of epochs, the data may have been overtrained causing performance to drop dramatically
+
+
+model20.pt
+---videoDetect1: detects car up to just before the curve
+---videoDetect2: does not detect pedestrian, detects car sometimes up to the curve
+			some false positive
+---videoDetect3: detects pedetrians at the beginning. Does not detect cyclist
+			some false positive on the poles
+			detects cyclist as pedetrian at the end right before the bridge
+
+model21.pt
+---videoDetect1: detects car and pedestrian at the beginning just before the curve.
+			alot of false positive around in the corner
+---videoDetect2: detects pedestrian sometimes throughout the course
+			alot of false positive
+		    detects car all the time
+---videoDetect3: detects pedetrians, not cyclist
+			some false positive on the sides and the pole
+			detects cyclist as pedetrian during the last scene
+
+model22.pt
+---videoDetect1: detects car most of the time in the beginning, but failed to detect pedestrian
+			detects the car sometimes after the curve
+			alot of false positive around in the corner
+---videoDetect2: does not detect pedestrian
+			detects car mostly all the time around the curve
+---videoDetect3: detects cyclist as a car sometimes throughout the video
+			does not detect cyclist around the curve, but detects it as a car on the bridge
+
+model23.pt
+---videoDetect1: does not detect anything
+---videoDetect2: does not detect anything
+---videoDetect3: does not detect anything
