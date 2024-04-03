@@ -2,10 +2,10 @@ from ultralytics import YOLO
 import cv2
 
 #load pretrained model
-model=YOLO("./pretraining-model/best.pt")
+model=YOLO("./pretraining-model/models_gen2/model21.pt")
 
 #for each video and their corresponding frames
-num=3
+num=1
 frames=[1320, 480, 2220]
 
 for i in range(0,frames[num-1]+1,30):
@@ -37,4 +37,4 @@ for i in range(0,frames[num-1]+1,30):
         cv2.putText(frame, text, (xmin, ymin - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
 
     #Write into videoDetect directory to see the results
-    cv2.imwrite(f'./videos/videoDetect{num}/{i}.jpg', frame)
+    #cv2.imwrite(f'./videos/videoDetect{num}/{i}.jpg', frame)

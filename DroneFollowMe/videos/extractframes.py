@@ -1,4 +1,4 @@
-#Problem 2.1
+#Task2: extracting frames to process
 import cv2
 import os
 
