@@ -190,7 +190,6 @@ model.to(device)
 
 torch.cuda.empty_cache()
 
-i=0
 model.train()
 for epoch in range(num_epochs):
     epoch_losses = []
@@ -213,14 +212,10 @@ for epoch in range(num_epochs):
       optimizer.step()
       epoch_losses.append(loss.item())
 
-      # Save checkpint because of large time used to process
-      torch.save(model.state_dict(), f"./model/mito_model_checkpoint{i}.pth")
-      i+=1
-
       torch.cuda.empty_cache()
     #save batch checkpoint
-    torch.save(model.state_dict(), f"./model/mito_model_checkpoint{i}.pth")
-    i+=1
+    torch.save(model.state_dict(), f"./model/mito_model_checkpoint{epoch}.pth")
+    
     print(f'EPOCH: {epoch}')
     print(f'Mean loss: {mean(epoch_losses)}')
 '''
