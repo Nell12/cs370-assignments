@@ -3,3 +3,12 @@ torch
 torchvision
 torchaudio
 numpy
+PIL
+matplotlib
+pyarrow
+io
+datasets
+random
+tqdm
+statistics
+os
