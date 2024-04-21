@@ -2,7 +2,7 @@
 ## Name- Aileen Ni
 ### Milestone 1- Dockerfile (Creates a docker image of program) I moved the files to the MileStone1 Directory, so the date changed may not reflect the actual due date of Milestone 1
 ### Milestone 2- Using google colab, I replicated the workflow for the SAM model used by the author. File is in Milestone2 directory
-### MileStone 3- required libraraies are posted in requirements.txt under milestone 1
+### MileStone 3- Required libraraies are posted in requirements.txt under Milestone1
 #### Recreate the data, numpy arrays, and dataset from Training.py, by downloading the parquet file training data and running each section. Because the npy files, dataset files, and finished models cost over 100MB to upload, it's too large to commit to github. Pictures are shown in the results folder, from the val dataset which is not used for training.
 #### Results: Because of the high amount of data, my computer doesn't have enough GPU to train over it, so the data had to be cut. The resulting training speed took over 70 hours in total for 10 batches. The model is saved at every batch checkpoint, and each model has around the size of 366 MB, hence it's too large to be updated onto github.
 ##### The model's performance is moderately adequate when it comes down to a grid as a tensor input, grid_size=5, with no bounding box supplied by the label. The model correctly defined most of the sidewalks, but also strayed away from the sidewalks to other parts of the picture. However, the model did sigificantly good when bounding boxes are provided as input tensor. The results are suppiled in the results directory, with the grid points tensor corresponding to "valresult_grid.png".
